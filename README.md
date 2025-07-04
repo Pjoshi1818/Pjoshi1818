@@ -5,18 +5,18 @@
 ---
 
 ## 🔧 Tech Stack
-- 🌐 HTML | CSS | JavaScript
-- 💻 C++ | C
-- 🔧 Git | GitHub
-- 🖥️ VS Code | Visual Studio
+- 🌐 HTML, CSS, JavaScript
+- 💻 C, C++
+- 🔧 Git & GitHub
+- 🖥️ VS Code, Visual Studio
 
 ---
 
 ## 📈 GitHub Stats
 
-![Pjoshi1818's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pjoshi1818&show_icons=true&theme=github_dark)
+![Pjoshi1818's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pjoshi1818&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjoshi1818&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjoshi1818&layout=compact&theme=tokyonight)
 
 ---
 
@@ -26,6 +26,31 @@
 
 ---
 
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pjoshi1818&theme=dark&hide_border=true)
+
+---
+
+## 🧩 Featured Projects
+
+🔹 [projectperfect6](https://github.com/Pjoshi1818/projectperfect6) – Frontend JavaScript Project  
+🔹 [DSA](https://github.com/Pjoshi1818/DSA) – Data Structures in C++  
+🔹 [dot-net-project](https://github.com/Pjoshi1818/dot-net-project) – Windows/Desktop Development (C#)
+
+---
+
 ## 📫 Contact Me
 
 📧 Email: [pankajmenariyajoshi@gmail.com](mailto:pankajmenariyajoshi@gmail.com)
+
+📍 Udaipur, Rajasthan, India
+
+---
+
+Would you like me to:
+- Give you this as a `.md` file to upload?
+- Guide you to push it using Git/GitHub Desktop?
+- Or help you edit it directly on GitHub.com?
+
+Let me know how you'd like to proceed.
