@@ -1,15 +1,14 @@
 # 👋 Hello, I'm Pankaj Joshi
 
-🎓 B.Tech 3rd Year Student | 💻 Developer | 🌱 Learning C++, .NET, JavaScript
+🎓 B.Tech 3rd Year Student | 💻 Developer | 🌱 Learning C++, JavaScript, Git
 
 ---
 
 ## 🔧 Tech Stack
 - 🌐 HTML | CSS | JavaScript
 - 💻 C++ | C
-- 🧩 .NET (C#)
 - 🔧 Git | GitHub
-- 🖥️ Visual Studio & VS Code
+- 🖥️ VS Code | Visual Studio
 
 ---
 
@@ -30,4 +29,3 @@
 ## 📫 Contact Me
 
 📧 Email: [pankajmenariyajoshi@gmail.com](mailto:pankajmenariyajoshi@gmail.com)
-
