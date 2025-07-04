@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Pankaj Joshi
 
-<!--
-**Pjoshi1818/Pjoshi1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year Student | 💻 Developer | 🌱 Learning C++, .NET, JavaScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 🌐 HTML | CSS | JavaScript
+- 💻 C++ | C
+- 🧩 .NET (C#)
+- 🔧 Git | GitHub
+- 🖥️ Visual Studio & VS Code
+
+---
+
+## 📈 GitHub Stats
+
+![Pjoshi1818's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pjoshi1818&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjoshi1818&layout=compact&theme=github_dark)
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Pjoshi1818&theme=darkhub&no-frame=true)
+
+---
+
+## 📫 Contact Me
+
+📧 Email: [pankajmenariyajoshi@gmail.com](mailto:pankajmenariyajoshi@gmail.com)
+
