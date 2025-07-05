@@ -48,9 +48,3 @@
 
 ---
 
-Would you like me to:
-- Give you this as a `.md` file to upload?
-- Guide you to push it using Git/GitHub Desktop?
-- Or help you edit it directly on GitHub.com?
-
-Let me know how you'd like to proceed.
