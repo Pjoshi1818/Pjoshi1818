@@ -8,7 +8,7 @@
 - 🌐 HTML, CSS, JavaScript
 - 💻 C, C++
 - 🔧 Git & GitHub
-- 🖥️ VS Code, Visual Studio
+
 
 ---
 
