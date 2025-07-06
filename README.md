@@ -7,6 +7,7 @@
 ## 🧠 Featured Projects
 
 🔹 [projectperfect6](https://github.com/Pjoshi1818/projectperfect6) – Frontend JavaScript Project
+
 🔹 Amazon Webpage Front‑End Clone](https://github.com/Pjoshi1818/Amazon-Webpage-Front-End-Clone)** –  UI clone of Amazon's homepage using HTML, CSS & JS.
 🔹 [DSA](https://github.com/Pjoshi1818/DSA) – Data Structures in C++
 
