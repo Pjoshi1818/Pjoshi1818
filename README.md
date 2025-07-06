@@ -1,21 +1,21 @@
 # 👋 Hello, I'm Pankaj Joshi
 
-🎓 B.Tech 3rd Year Student | 💻 Developer | 🌱 Learning C++, JavaScript, Git
+🎓 B.Tech Student | 💻 Developer | 🌱 Learning C++, JavaScript, Git
 
 ---
 
-## 🔧 Tech Stack
-- 🌐 HTML, CSS, JavaScript
-- 💻 C, C++
-- 🔧 Git & GitHub
+## 🧠 Featured Projects
 
+🔹 **[Amazon Webpage Front‑End Clone](https://github.com/Pjoshi1818/Amazon-Webpage-Front-End-Clone)** – A responsive UI clone of Amazon's homepage using HTML, CSS & JS.
+
+🔹 [projectperfect6](https://github.com/Pjoshi1818/projectperfect6) – Frontend JavaScript Project  
+🔹 [DSA](https://github.com/Pjoshi1818/DSA) – Data Structures in C++
 
 ---
 
 ## 📈 GitHub Stats
 
-![Pjoshi1818's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pjoshi1818&show_icons=true&theme=tokyonight)
-
+![Pjoshi1818's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pjoshi1818&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjoshi1818&layout=compact&theme=tokyonight)
 
 ---
@@ -32,19 +32,7 @@
 
 ---
 
-## 🧩 Featured Projects
-
-🔹 [projectperfect6](https://github.com/Pjoshi1818/projectperfect6) – Frontend JavaScript Project  
-🔹 [DSA](https://github.com/Pjoshi1818/DSA) – Data Structures in C++  
-🔹 [dot-net-project](https://github.com/Pjoshi1818/dot-net-project) – Windows/Desktop Development (C#)
-
----
-
 ## 📫 Contact Me
 
-📧 Email: [pankajmenariyajoshi@gmail.com](mailto:pankajmenariyajoshi@gmail.com)
-
+📧 [pankajmenariyajoshi@gmail.com](mailto:pankajmenariyajoshi@gmail.com)  
 📍 Udaipur, Rajasthan, India
-
----
-
