@@ -25,10 +25,10 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pjoshi1818&theme=radical&no-frame=true&margin-w=10&no-bg=true)
 
 ---
-
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pjoshi1818&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pjoshi1818&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
