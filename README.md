@@ -28,7 +28,7 @@
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pjoshi1818&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pjoshi1818&theme=tokyonight&hide_border=true)
 
 ---
 
