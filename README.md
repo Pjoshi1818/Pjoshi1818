@@ -33,6 +33,20 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pjoshi1818&theme=radical&hide_border=true)
 
+
+## 📊 Most Used Languages
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjoshi1818&layout=compact&theme=radical&langs_count=6)
+
+---
+
+## 📅 Contribution Graph
+
+[![Pankaj's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pjoshi1818&bg_color=000000&color=ffffff&line=ffdd00&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+
 ---
 
 ## 📬 Contact Me
