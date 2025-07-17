@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Pankaj Joshi
 
+![Profile Views](https://komarev.com/ghpvc/?username=Pjoshi1818&label=Profile%20views&color=blue&style=flat)
+
 🎓 B.Tech Student | 💻 Developer | 🌱 Learning C++, JavaScript, Git, .NET
 
 ---
@@ -39,4 +41,3 @@
 📍 Udaipur, Rajasthan, India
 
 ---
-
