@@ -19,6 +19,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pjoshi1818&show_icons=true&theme=radical)
 
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pjoshi1818&theme=radical&hide_border=true)
+
 ## 📊 Most Used Languages
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjoshi1818&layout=compact&theme=radical&langs_count=6)
@@ -33,9 +37,7 @@
 
 ---
 
-## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pjoshi1818&theme=radical&hide_border=true)
 
 
 
