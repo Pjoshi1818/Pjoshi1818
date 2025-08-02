@@ -1,5 +1,6 @@
 <p align="left"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=gradient&color=0f2027,203a43,2c5364&height=150&section=header&text=Pankaj%20Joshi&fontColor=ffffff&fontSize=40" width="100%"/>
+
 </p>
 
 <h1 align="center">
