@@ -117,7 +117,7 @@
   </a>
 </p>
 
-⭐ **Star** some repositories if you find them useful! Happy Coding! 🚀
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=footer" width="100%"/>
