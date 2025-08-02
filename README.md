@@ -1,6 +1,5 @@
 <p align="left"> 
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=0f2027,203a43,2c5364&height=150&section=header&text=Pankaj%20Joshi&fontColor=ffffff&fontSize=40" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=header" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -116,4 +115,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+My+Profile" alt="Typing SVG" />
   </a>
+</p>
+
+⭐ **Star** some repositories if you find them useful! Happy Coding! 🚀
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=footer" width="100%"/>
 </p>
