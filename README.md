@@ -27,7 +27,7 @@
 
 # 💫 About Me:
 💻 B.Tech from Udaipur, Rajasthan  
-🚀 Currently learning C++, JavaScript, Git, .NET  
+🚀 Currently learning C++(DSA), JavaScript, Git, .NET  
 🔥 Building frontend + backend projects to become a Full Stack Developer
 
 ---
