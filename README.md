@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=header" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -119,6 +119,7 @@
 
 
 
+
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer" width="100%"/>
 </p>
