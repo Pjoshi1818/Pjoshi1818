@@ -14,7 +14,7 @@
 
 <div>
   <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Pankaj Joshi</h1>
-  <h3>B.Tech Student | Aspiring Full Stack Developer | JavaScript & .NET Learner</h3>
+  <h3>B.Tech Student | Aspiring Full Stack Developer | JavaScript & c++(DSA) Learner</h3>
 </div>
 
 <p align="center">
