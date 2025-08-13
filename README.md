@@ -98,6 +98,26 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjoshi1818&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 
 
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</h3>
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Turn+challenges....;into+opportunities.....;+with+code..." alt="Typing SVG"/>
+    </h1>
+</div>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+My+Profile" alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 <p align="left">
