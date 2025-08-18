@@ -42,6 +42,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pjoshi1818&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Languages" />
+</p>
+
 # 🛠️ Languages & Tools:
 
 ![C++(DSA)](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
