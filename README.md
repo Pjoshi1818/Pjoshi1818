@@ -64,12 +64,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-# 🚀 Featured Projects:
+# 🚀 Projects:
 
-- 🔹 [projectperfect6](https://github.com/Pjoshi1818/projectperfect6) – JavaScript UI enhancements and form validation
-- 🔹 [Amazon Webpage Clone](https://github.com/Pjoshi1818/Amazon-Webpage-Front-End-Clone-) – HTML, CSS, JS clone of Amazon
+- 🔹 [tailor-service-hub](https://github.com/Pjoshi1818/tailor-service-hub) –  A MERN stack marketplace that helps customers easily find and book tailors
+- 🔹 [project-perfecto](https://github.com/j4yesh-911/project-perfecto) – SwapSkills – Exchange skills, connect with learners, and grow through community-driven learning.
 - 🔹 [DSA Repository](https://github.com/Pjoshi1818/DSA) – Data Structures & Algorithms in C++
-- 🔹 [ASP.NET Web App](https://github.com/Pjoshi1818/dot-net-project) – Web app using C# and ASP.NET
+- 🔹 [qr-dine](https://github.com/j4yesh-911/qr-dine-) – “QR-based restaurant menu and ordering system for contactless dining.”
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
