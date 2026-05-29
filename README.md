@@ -99,6 +99,12 @@ Collection of Data Structures & Algorithms problems solved in C++.
 
 ---
 
+## 🔹 Linux System Resource Monitor CLI
+A terminal-based system monitoring tool built with Python that displays real-time system resource usage including CPU,
+memory, disk usage, and running processes.
+
+🔗 https://github.com/Pjoshi1818/Linux-e-monitor.git
+
 # 📜 Certifications
 
 - RHCSA – Red Hat Certified System Administrator
