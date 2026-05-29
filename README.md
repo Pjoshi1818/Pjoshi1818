@@ -1,132 +1,119 @@
-<p align="left"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=header" width="100%"/>
-</p>
-
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=30&center=true&lines=Hello,+Everyone+%F0%9F%91%8B;Welcome+to+My+Profile+%F0%9F%92%BB;Feel+Free+to+Reach+Me+Out%F0%9F%98%8E;" alt="Typing SVG">
-  </a>
-</h1>
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<div>
-  <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Pankaj Joshi</h1>
-  <h3 color: white>B.Tech Student | Aspiring Full Stack Developer | JavaScript & C++(DSA) Learner</h3>
-</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pjoshi1818&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=130&section=header&text=Pankaj%20Joshi&fontSize=40&fontColor=ffffff"/>
+</p>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+<h1 align="center">Hi 👋 I'm Pankaj Joshi</h1>
+<h3 align="center">B.Tech Computer Science Student | MERN Stack Developer | Linux Enthusiast</h3>
 
-# 💫 About Me:
-💻 B.Tech from Udaipur, Rajasthan  
-🚀 Currently learning C++(DSA), JavaScript, Git.
-🔥 Building frontend + backend projects to become a Full Stack Developer
+<p align="center">
+  Passionate about building full-stack web applications, solving real-world problems through code, and exploring Linux systems, backend development, and software engineering.
+</p>
 
 ---
 
-# 📬 Contact Me:
+## 🚀 About Me
 
-<a href="mailto:pankajmenariyajoshi@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</a>
+- 🎓 B.Tech Computer Science student from Udaipur, Rajasthan
+- 💻 MERN Stack Developer with hands-on project experience
+- 🐧 RHCSA Certified with strong Linux fundamentals
+- 📊 Interested in Data Analytics & backend engineering
+- 🌱 Currently learning **DSA, Python, Docker, SQL, and System Design**
+- 🔍 Looking for Internship opportunities in **Software Engineering / Backend / Full Stack Development**
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+---
 
+## 🛠️ Tech Stack
 
-## 📚 Most Used Languages
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pjoshi1818&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Languages" />
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
-# 🛠️ Languages & Tools:
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-![C++(DSA)](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-# 🚀 Projects:
-
-- 🔹 [tailor-service-hub](https://github.com/Pjoshi1818/tailor-service-hub) –  A MERN stack marketplace that helps customers easily find and book tailors
-- 🔹 [project-perfecto](https://github.com/j4yesh-911/project-perfecto) – SwapSkills – Exchange skills, connect with learners, and grow through community-driven learning.
-- 🔹 [DSA Repository](https://github.com/Pjoshi1818/DSA) – Data Structures & Algorithms in C++
-- 🔹 [qr-dine](https://github.com/j4yesh-911/qr-dine-) – “QR-based restaurant menu and ordering system for contactless dining.”
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-## 📊 GitHub Stats
-
-<table width="100%">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Pjoshi1818&show_icons=true&theme=midnight-purple" />
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pjoshi1818&theme=midnight-purple" />
-</td>
-</tr>
-</table>
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Pjoshi1818&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</h3>
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjoshi1818&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Power BI](https://img.shields.io/badge/PowerBI-black?style=for-the-badge&logo=powerbi)
 
 
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</h3>
+# 🚀 Featured Projects
 
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Turn+challenges....;into+opportunities.....;+with+code..." alt="Typing SVG"/>
-    </h1>
-</div>
+## 🔹 Tailor Marketplace Platform
+MERN-based platform connecting tailors and customers digitally.
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+### Features:
+- User authentication
+- Service listing
+- Order request management
+- Responsive UI
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+My+Profile" alt="Typing SVG" />
-  </a>
-</p>
+🔗 https://github.com/Pjoshi1818/tailor-service-hub
 
+---
 
+## 🔹 Skill Swap Platform
+Peer-to-peer skill exchange web application.
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer" width="100%"/>
-</p>
+### Features:
+- Skill sharing
+- User collaboration
+- Team-built full-stack project
+
+🔗 https://skitzoo.vercel.app/
+
+---
+
+## 🔹 QR Dine
+QR-based restaurant menu & ordering platform.
+
+### Features:
+- Digital menu
+- Customer ordering
+- Admin dashboard
+
+🔗 https://qr-dine-8fol.vercel.app/
+
+---
+
+## 🔹 DSA Repository
+Collection of Data Structures & Algorithms problems solved in C++.
+
+🔗 https://github.com/Pjoshi1818/DSA
+
+---
+
+# 📜 Certifications
+
+- RHCSA – Red Hat Certified System Administrator
+- C++ Programming Certificate – GeeksforGeeks
+- Deloitte Data Analytics Job Simulation – Forage
+
+---
+
+# 📫 Connect With Me
+
+📧 pankajmenariyajoshi@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/pankaj-joshi-684335299
+
+💻 GitHub  
+https://github.com/Pjoshi1818
+```
