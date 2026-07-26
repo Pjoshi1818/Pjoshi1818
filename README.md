@@ -29,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
